@@ -2,6 +2,8 @@
 
 An interactive 3x3 grid game built with Next.js and Tailwind CSS.
 
+🎮 **[Play Live Demo](https://ripple-grid-game.vercel.app/)**
+
 ## Features
 
 - 3x3 grid with dynamic number increments
